@@ -524,7 +524,7 @@
 				CURRENT_PROJECT_VERSION = 1.1.1;
 				DYLIB_CURRENT_VERSION = "$(CURRENT_PROJECT_VERSION)";
 				ENABLE_TESTABILITY = YES;
-				GCC_PREPROCESSOR_DEFINITIONS = TDOAUTH_USE_STATIC_VALUES_FOR_AUTOMATIC_TESTING;
+				GCC_PREPROCESSOR_DEFINITIONS = "";
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include,
@@ -543,7 +543,7 @@
 			buildSettings = {
 				CURRENT_PROJECT_VERSION = 1.1.1;
 				DYLIB_CURRENT_VERSION = "$(CURRENT_PROJECT_VERSION)";
-				GCC_PREPROCESSOR_DEFINITIONS = TDOAUTH_USE_STATIC_VALUES_FOR_AUTOMATIC_TESTING;
+				GCC_PREPROCESSOR_DEFINITIONS = "";
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include,
